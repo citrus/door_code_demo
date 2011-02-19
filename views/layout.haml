@@ -1,0 +1,16 @@
+!!!
+%html
+  %head
+    %title Door Code Demo
+    %link{ :rel => 'stylesheet', :type => 'text/css', :href => 'styles.css' }
+    
+  %body
+    #container
+      = yield
+      
+      #footer
+        Find Door Code on 
+        %a{ :href => 'https://rubygems.org/gems/door_code' } RubyGems
+        or
+        %a{ :href => 'https://github.com/6twenty/door_code' } Github
+        

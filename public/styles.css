@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+}
+body {
+  background: #222;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+#container {
+  width: 454px;
+  margin: 0 auto;
+}
+#footer {
+  margin-top: 2em;
+  padding-top: 5px;
+  border-top: 1px solid #333;
+  text-align: center;
+  font-size: 11px;
+}
+a, a:link, a:visited {
+  color: #366bb2;
+}
+a:hover {
+  color: #5e5275;
+}
+.bordered {
+  border: 1px solid #444;
+  padding: 1px;
+}
