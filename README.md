@@ -1,9 +1,9 @@
 Door Code Demo
 ==============
 
-Door Code Demo is a very simple example app for the [door code gem]:https://rubygems.org/gems/door_code.
+Door Code Demo is a very simple example app for the [door code gem](https://rubygems.org/gems/door_code).
 
-The demo app can be found on Heroku at [http://doorcodedemo.heroku.com]:http://doorcodedemo.heroku.com.
+The demo app can be found on Heroku at [http://doorcodedemo.heroku.com](http://doorcodedemo.heroku.com).
 
 
 Try for yourself
