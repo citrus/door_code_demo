@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     daemons (1.1.0)
-    door_code (0.0.1)
+    door_code (0.0.3)
       rack
     eventmachine (0.12.10)
     haml (3.0.25)
@@ -20,7 +20,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  door_code
+  door_code (= 0.0.3)
   haml
   sinatra
   thin
