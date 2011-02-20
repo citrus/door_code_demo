@@ -1,9 +1,15 @@
+GIT
+  remote: git://github.com/citrus/door_code.git
+  revision: 8b63f13859f45c430f35088c4fde8ee44d9b8435
+  branch: citrus
+  specs:
+    door_code (0.0.3)
+      rack
+
 GEM
   remote: http://rubygems.org/
   specs:
     daemons (1.1.0)
-    door_code (0.0.3)
-      rack
     eventmachine (0.12.10)
     haml (3.0.25)
     rack (1.2.1)
@@ -20,7 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  door_code (= 0.0.3)
+  door_code!
   haml
   sinatra
   thin
